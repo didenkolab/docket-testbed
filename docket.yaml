@@ -1,0 +1,53 @@
+# The projects this vault holds, and the vocabulary they share.
+# A key is PROJECT-NUMBER and the project is a folder at the root.
+#
+# Every word below belongs to the team, not to docket: a seven-stage deployment
+# pipeline, types named in the team's own language, and a workflow that only
+# moves forward one stage at a time. Only the three categories — todo, doing,
+# done — and the levels are docket's, because boards and backlogs act on them.
+name: Пирс
+projects:
+  - key: PIER
+    name: Пирс
+statuses:
+  - name: Discovery
+    category: todo
+  - name: В работе
+    category: doing
+  - name: Business Review
+    category: doing
+  - name: QA Stage
+    category: doing
+  - name: RFT Stage
+    category: doing
+  - name: RF DEPLOYMENT
+    category: doing
+  - name: Готово
+    category: done
+  - name: Отменено
+    category: done
+types:
+  - name: Эпик
+    level: 1
+  - История
+  - Задача
+  - Баг
+  - name: Подзадача
+    level: -1
+priorities:
+  - низкий
+  - обычный
+  - высокий
+  - критичный
+# The pipeline. Forward one stage at a time; back to "В работе" from any stage
+# after it, because that is what a failed review, a failed test and a failed
+# deployment all mean. Anything before Готово can be abandoned.
+transitions:
+  Discovery: [В работе, Отменено]
+  В работе: [Business Review, Discovery, Отменено]
+  Business Review: [QA Stage, В работе, Отменено]
+  QA Stage: [RFT Stage, В работе, Отменено]
+  RFT Stage: [RF DEPLOYMENT, В работе, Отменено]
+  RF DEPLOYMENT: [Готово, В работе]
+  Готово: [В работе]
+  Отменено: [Discovery]
