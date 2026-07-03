@@ -2,13 +2,13 @@
 key: PIER-28
 title: Обновить рантайм до Go 1.26
 type: Задача
-status: Discovery
-status_category: todo
+status: В работе
+status_category: doing
 priority: низкий
 assignee: marina
 labels: ["[[инфраструктура]]"]
 created: 2026-07-02T09:00:00Z
-updated: 2026-07-02T09:00:00Z
+updated: 2026-07-03T15:29:00Z
 aliases: []
 tags: [area/инфра, долг]
 ---
