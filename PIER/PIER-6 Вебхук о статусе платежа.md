@@ -2,13 +2,13 @@
 key: PIER-6
 title: Вебхук о статусе платежа
 type: Задача
-status: Discovery
-status_category: todo
+status: В работе
+status_category: doing
 priority: критичный
 assignee: oleg
 labels: ["[[оплата]]", "[[вебхуки]]"]
 created: 2026-06-30T09:00:00Z
-updated: 2026-06-30T09:00:00Z
+updated: 2026-07-03T17:55:00Z
 aliases: []
 tags: [area/платежи]
 parent: "[[PIER-1 Приём платежей по СБП]]"
