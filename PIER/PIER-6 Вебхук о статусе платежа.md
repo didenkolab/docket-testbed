@@ -2,13 +2,13 @@
 key: PIER-6
 title: Вебхук о статусе платежа
 type: Задача
-status: Business Review
+status: QA Stage
 status_category: doing
 priority: критичный
 assignee: oleg
 labels: ["[[оплата]]", "[[вебхуки]]"]
 created: 2026-06-30T09:00:00Z
-updated: 2026-07-05T10:08:00Z
+updated: 2026-07-08T11:21:00Z
 aliases: []
 tags: [area/платежи]
 parent: "[[PIER-1 Приём платежей по СБП]]"
