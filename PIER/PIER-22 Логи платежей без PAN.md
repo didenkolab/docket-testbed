@@ -2,13 +2,13 @@
 key: PIER-22
 title: Логи платежей без PAN
 type: Задача
-status: Business Review
+status: QA Stage
 status_category: doing
 priority: критичный
 assignee: oleg
 labels: ["[[безопасность]]"]
 created: 2026-07-01T09:00:00Z
-updated: 2026-07-05T10:00:00Z
+updated: 2026-07-08T11:13:00Z
 aliases: []
 tags: [area/инфра, риск/деньги]
 ---
