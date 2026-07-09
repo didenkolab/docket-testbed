@@ -2,13 +2,13 @@
 key: PIER-5
 title: Оплата по QR в мобильном приложении
 type: История
-status: Business Review
+status: QA Stage
 status_category: doing
 priority: критичный
 assignee: marina
 labels: ["[[оплата]]"]
 created: 2026-06-30T09:00:00Z
-updated: 2026-07-06T17:01:00Z
+updated: 2026-07-09T10:14:00Z
 aliases: []
 tags: [area/платежи]
 parent: "[[PIER-1 Приём платежей по СБП]]"
