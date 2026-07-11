@@ -2,13 +2,13 @@
 key: PIER-1
 title: Приём платежей по СБП
 type: Эпик
-status: Discovery
-status_category: todo
+status: В работе
+status_category: doing
 priority: критичный
 assignee: marina
 labels: ["[[оплата]]"]
 created: 2026-06-29T09:00:00Z
-updated: 2026-06-29T09:00:00Z
+updated: 2026-07-11T12:20:00Z
 aliases: []
 tags: [area/платежи, риск/деньги]
 ---
