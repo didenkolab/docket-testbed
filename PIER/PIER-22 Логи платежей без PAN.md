@@ -2,13 +2,13 @@
 key: PIER-22
 title: Логи платежей без PAN
 type: Задача
-status: RFT Stage
+status: RF DEPLOYMENT
 status_category: doing
 priority: критичный
 assignee: oleg
 labels: ["[[безопасность]]"]
 created: 2026-07-01T09:00:00Z
-updated: 2026-07-10T12:26:00Z
+updated: 2026-07-12T13:39:00Z
 aliases: []
 tags: [area/инфра, риск/деньги]
 ---
