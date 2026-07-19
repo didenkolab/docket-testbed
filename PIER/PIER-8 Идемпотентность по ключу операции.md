@@ -2,13 +2,13 @@
 key: PIER-8
 title: Идемпотентность по ключу операции
 type: Задача
-status: Discovery
-status_category: todo
+status: В работе
+status_category: doing
 priority: критичный
 assignee: marina
 labels: ["[[оплата]]", "[[безопасность]]"]
 created: 2026-07-04T09:00:00Z
-updated: 2026-07-04T09:00:00Z
+updated: 2026-07-19T11:09:00Z
 aliases: []
 tags: [area/платежи, риск/деньги]
 parent: "[[PIER-1 Приём платежей по СБП]]"
