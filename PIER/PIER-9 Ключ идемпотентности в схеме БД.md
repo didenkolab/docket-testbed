@@ -2,13 +2,13 @@
 key: PIER-9
 title: Ключ идемпотентности в схеме БД
 type: Подзадача
-status: QA Stage
+status: RFT Stage
 status_category: doing
 priority: высокий
 assignee: oleg
 labels: ["[[оплата]]"]
 created: 2026-07-06T09:00:00Z
-updated: 2026-07-21T14:42:00Z
+updated: 2026-07-26T15:55:00Z
 aliases: []
 tags: [area/платежи]
 parent: "[[PIER-8 Идемпотентность по ключу операции]]"
