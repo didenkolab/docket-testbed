@@ -2,13 +2,13 @@
 key: PIER-2
 title: Возвраты и частичные возвраты
 type: Эпик
-status: Discovery
-status_category: todo
+status: В работе
+status_category: doing
 priority: высокий
 assignee: timur
 labels: ["[[возвраты]]"]
 created: 2026-07-02T09:00:00Z
-updated: 2026-07-02T09:00:00Z
+updated: 2026-07-29T13:27:00Z
 aliases: []
 tags: [area/возвраты, риск/деньги]
 ---
