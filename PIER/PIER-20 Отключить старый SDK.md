@@ -2,13 +2,13 @@
 key: PIER-20
 title: Отключить старый SDK
 type: Задача
-status: Discovery
-status_category: todo
+status: В работе
+status_category: doing
 priority: низкий
 assignee: oleg
 labels: ["[[процессинг]]"]
 created: 2026-07-21T09:00:00Z
-updated: 2026-07-21T09:00:00Z
+updated: 2026-08-01T15:33:00Z
 aliases: []
 tags: [area/инфра, долг]
 parent: "[[PIER-4 Переезд на новый процессинг]]"
