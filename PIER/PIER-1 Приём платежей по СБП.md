@@ -2,13 +2,13 @@
 key: PIER-1
 title: Приём платежей по СБП
 type: Эпик
-status: Business Review
+status: QA Stage
 status_category: doing
 priority: критичный
 assignee: marina
 labels: ["[[оплата]]"]
 created: 2026-06-29T09:00:00Z
-updated: 2026-07-22T13:33:00Z
+updated: 2026-08-03T14:46:00Z
 aliases: []
 tags: [area/платежи, риск/деньги]
 ---
