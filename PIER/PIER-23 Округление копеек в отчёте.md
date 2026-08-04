@@ -2,13 +2,13 @@
 key: PIER-23
 title: Округление копеек в отчёте
 type: Баг
-status: RF DEPLOYMENT
-status_category: doing
+status: Готово
+status_category: done
 priority: обычный
 assignee: timur
 labels: ["[[отчётность]]"]
 created: 2026-07-05T09:00:00Z
-updated: 2026-07-30T14:46:00Z
+updated: 2026-08-04T15:59:00Z
 aliases: []
 tags: [area/отчёты]
 duplicated_by: ["[[PIER-24 В отчёте расходится сумма на копейку]]"]
