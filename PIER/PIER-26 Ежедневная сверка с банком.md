@@ -2,13 +2,13 @@
 key: PIER-26
 title: Ежедневная сверка с банком
 type: История
-status: В работе
+status: Business Review
 status_category: doing
 priority: высокий
 assignee: timur
 labels: ["[[отчётность]]", "[[оплата]]"]
 created: 2026-07-08T09:00:00Z
-updated: 2026-07-23T13:15:00Z
+updated: 2026-08-07T14:28:00Z
 aliases: []
 tags: [area/отчёты, риск/деньги]
 ---
