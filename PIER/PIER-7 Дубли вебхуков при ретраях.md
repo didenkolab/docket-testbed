@@ -2,13 +2,13 @@
 key: PIER-7
 title: Дубли вебхуков при ретраях
 type: Баг
-status: В работе
+status: Business Review
 status_category: doing
 priority: критичный
 assignee: oleg
 labels: ["[[вебхуки]]", "[[регресс]]"]
 created: 2026-07-24T09:00:00Z
-updated: 2026-07-31T10:02:30Z
+updated: 2026-08-07T11:15:00Z
 aliases: []
 tags: [area/платежи, регресс, риск/деньги]
 parent: "[[PIER-1 Приём платежей по СБП]]"
