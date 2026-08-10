@@ -2,13 +2,13 @@
 key: PIER-27
 title: Ретраи вебхуков с экспоненциальной паузой
 type: Задача
-status: В работе
+status: Business Review
 status_category: doing
 priority: высокий
 assignee: oleg
 labels: ["[[вебхуки]]"]
 created: 2026-07-26T09:00:00Z
-updated: 2026-08-02T14:22:30Z
+updated: 2026-08-10T15:35:00Z
 aliases: []
 tags: [area/платежи]
 caused_by: ["[[PIER-7 Дубли вебхуков при ретраях]]"]
