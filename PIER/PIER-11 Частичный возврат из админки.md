@@ -2,13 +2,13 @@
 key: PIER-11
 title: Частичный возврат из админки
 type: История
-status: Discovery
-status_category: todo
+status: В работе
+status_category: doing
 priority: высокий
 assignee: timur
 labels: ["[[возвраты]]"]
 created: 2026-07-03T09:00:00Z
-updated: 2026-07-03T09:00:00Z
+updated: 2026-08-11T14:30:00Z
 aliases: []
 tags: [area/возвраты, риск/деньги]
 parent: "[[PIER-2 Возвраты и частичные возвраты]]"
