@@ -2,13 +2,13 @@
 key: PIER-14
 title: Форма возврата
 type: Подзадача
-status: Discovery
-status_category: todo
+status: В работе
+status_category: doing
 priority: обычный
 assignee: ksenia
 labels: ["[[возвраты]]"]
 created: 2026-07-11T09:00:00Z
-updated: 2026-07-11T09:00:00Z
+updated: 2026-08-13T17:51:00Z
 aliases: []
 tags: [area/возвраты]
 parent: "[[PIER-11 Частичный возврат из админки]]"
