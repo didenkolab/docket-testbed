@@ -1,16 +1,26 @@
 ---
 title: Пирс
 type: page
+tags: [вики]
 ---
 
 # Пирс
 
-The front page of this vault's knowledge base. Replace this with whatever a newcomer to
-Пирс should read first.
+Платёжный шлюз маркетплейса. Здесь то, что нужно прочитать, прежде чем брать задачу.
 
-`docs/` has no schema on purpose — it is a wiki, and a wiki that demands a schema stops getting
-written in. Put pages wherever the tree makes sense and connect them with `[[wikilinks]]`, so
-the graph view and backlinks stay worth opening.
+## С чего начать
 
-Tasks link to pages and pages link back. That shared link layer is the whole of the integration
-between the board and the knowledge base.
+- [[пайплайн]] — что означает каждая стадия и когда задача имеет право двинуться дальше.
+- [[словарь]] — типы задач и приоритеты: чем `История` отличается от `Задачи`.
+- [[метки]] — по каким темам разложена работа.
+
+## Как мы работаем
+
+- [[сверка]] — ежедневная сверка с банком: как читать расхождения и что делать.
+- [[идемпотентность]] — почему у каждой операции с деньгами есть ключ.
+
+## Куда идём
+
+Четыре эпика: [[PIER-1 Приём платежей по СБП]], [[PIER-2 Возвраты и частичные возвраты]],
+[[PIER-3 Антифрод - правила и лимиты]] и [[PIER-4 Переезд на новый процессинг]].
+Первый в выкатке, второй в работе, два последних пока Discovery.
