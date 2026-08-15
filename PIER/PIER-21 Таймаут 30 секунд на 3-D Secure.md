@@ -2,13 +2,13 @@
 key: PIER-21
 title: Таймаут 30 секунд на 3-D Secure
 type: Баг
-status: Business Review
+status: QA Stage
 status_category: doing
 priority: высокий
 assignee: marina
 labels: ["[[оплата]]", "[[регресс]]"]
 created: 2026-07-27T09:00:00Z
-updated: 2026-08-08T17:53:00Z
+updated: 2026-08-15T10:06:00Z
 aliases: []
 tags: [area/платежи, регресс]
 ---
