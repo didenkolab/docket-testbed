@@ -2,13 +2,13 @@
 key: PIER-25
 title: Метрики по стадиям пайплайна
 type: Задача
-status: В работе
+status: Business Review
 status_category: doing
 priority: обычный
 assignee: ksenia
 labels: ["[[отчётность]]"]
 created: 2026-07-23T09:00:00Z
-updated: 2026-08-05T12:08:00Z
+updated: 2026-08-17T13:21:00Z
 aliases: []
 tags: [area/отчёты, долг]
 ---
