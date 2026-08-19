@@ -2,13 +2,13 @@
 key: PIER-12
 title: Расчёт комиссии при частичном возврате
 type: Задача
-status: В работе
+status: Business Review
 status_category: doing
 priority: высокий
 assignee: timur
 labels: ["[[возвраты]]"]
 created: 2026-07-09T09:00:00Z
-updated: 2026-07-30T15:37:00Z
+updated: 2026-08-19T16:50:00Z
 aliases: []
 tags: [area/возвраты, риск/деньги]
 parent: "[[PIER-2 Возвраты и частичные возвраты]]"
