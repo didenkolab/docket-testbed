@@ -2,13 +2,13 @@
 key: PIER-13
 title: Возврат больше суммы платежа
 type: Баг
-status: Discovery
-status_category: todo
+status: В работе
+status_category: doing
 priority: критичный
 assignee: timur
 labels: ["[[возвраты]]", "[[регресс]]"]
 created: 2026-07-18T09:00:00Z
-updated: 2026-07-18T09:00:00Z
+updated: 2026-08-24T16:44:00Z
 aliases: []
 tags: [area/возвраты, регресс, риск/деньги]
 parent: "[[PIER-2 Возвраты и частичные возвраты]]"
