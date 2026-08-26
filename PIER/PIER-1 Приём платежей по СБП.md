@@ -2,13 +2,13 @@
 key: PIER-1
 title: Приём платежей по СБП
 type: Эпик
-status: RFT Stage
+status: RF DEPLOYMENT
 status_category: doing
 priority: критичный
 assignee: marina
 labels: ["[[оплата]]"]
 created: 2026-06-29T09:00:00Z
-updated: 2026-08-15T15:59:00Z
+updated: 2026-08-26T16:12:00Z
 aliases: []
 tags: [area/платежи, риск/деньги]
 ---
