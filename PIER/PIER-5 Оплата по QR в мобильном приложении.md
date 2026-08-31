@@ -10,7 +10,6 @@ labels: ["[[оплата]]"]
 created: 2026-06-30T09:00:00Z
 updated: 2026-07-18T13:53:00Z
 aliases: []
-tags: [area/платежи]
 parent: "[[PIER-1 Приём платежей по СБП]]"
 ---
 

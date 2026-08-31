@@ -6,11 +6,11 @@ status: RF DEPLOYMENT
 status_category: doing
 priority: высокий
 assignee: marina
-labels: ["[[оплата]]", "[[регресс]]"]
+labels: ["[[оплата]]"]
 created: 2026-07-27T09:00:00Z
 updated: 2026-08-27T12:32:00Z
 aliases: []
-tags: [area/платежи, регресс]
+tags: [регресс]
 ---
 
 Если банк держит страницу 3-D Secure дольше 30 секунд, мы отменяем платёж, а банк

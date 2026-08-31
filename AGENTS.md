@@ -55,7 +55,7 @@ status_category: doing
 priority: критичный
 assignee: agent/claude
 parent: "[[PIER-1 Приём платежей по СБП]]"
-labels: ["[[вебхуки]]", "[[регресс]]"]
+labels: ["[[вебхуки]]", "`регресс`"]
 created: 2026-01-01T09:00:00Z
 updated: 2026-01-01T09:00:00Z
 aliases: []
@@ -69,7 +69,7 @@ words:
 
 ```yaml
 parent: "[[PIER-1 Приём платежей по СБП]]"
-labels: ["[[вебхуки]]", "[[регресс]]"]
+labels: ["[[вебхуки]]", "`регресс`"]
 ```
 
 A wikilink is the only pointer Obsidian resolves, draws in the graph and counts as a backlink.

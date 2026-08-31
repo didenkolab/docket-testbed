@@ -6,11 +6,11 @@ status: В работе
 status_category: doing
 priority: критичный
 assignee: timur
-labels: ["[[возвраты]]", "[[регресс]]"]
+labels: ["[[возвраты]]"]
 created: 2026-07-18T09:00:00Z
 updated: 2026-08-24T16:44:00Z
 aliases: []
-tags: [area/возвраты, регресс, риск/деньги]
+tags: [регресс, риск/деньги]
 parent: "[[PIER-2 Возвраты и частичные возвраты]]"
 blocked_by: ["[[PIER-12 Расчёт комиссии при частичном возврате]]"]
 ---
