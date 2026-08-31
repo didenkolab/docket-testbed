@@ -5,10 +5,12 @@ type: Подзадача
 status: В работе
 status_category: doing
 priority: обычный
+estimate: 3
 assignee: ksenia
+sprint: "[[Спринт 13]]"
 labels: ["[[возвраты]]"]
 created: 2026-07-11T09:00:00Z
-updated: 2026-08-13T17:51:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 parent: "[[PIER-11 Частичный возврат из админки]]"
 ---

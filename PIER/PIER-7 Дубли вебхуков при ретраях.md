@@ -5,10 +5,12 @@ type: Баг
 status: RFT Stage
 status_category: doing
 priority: критичный
+estimate: 3
 assignee: oleg
+sprint: "[[Спринт 13]]"
 labels: ["[[вебхуки]]"]
 created: 2026-07-24T09:00:00Z
-updated: 2026-08-21T13:41:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 tags: [регресс, риск/деньги]
 parent: "[[PIER-1 Приём платежей по СБП]]"

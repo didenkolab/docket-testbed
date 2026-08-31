@@ -5,10 +5,11 @@ type: История
 status: Готово
 status_category: done
 priority: критичный
+estimate: 8
 assignee: marina
 labels: ["[[оплата]]"]
 created: 2026-06-30T09:00:00Z
-updated: 2026-07-18T13:53:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 parent: "[[PIER-1 Приём платежей по СБП]]"
 ---

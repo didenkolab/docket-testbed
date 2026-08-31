@@ -5,10 +5,12 @@ type: История
 status: QA Stage
 status_category: doing
 priority: высокий
+estimate: 8
 assignee: timur
+sprint: "[[Спринт 13]]"
 labels: ["[[отчётность]]", "[[оплата]]"]
 created: 2026-07-08T09:00:00Z
-updated: 2026-08-22T15:41:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 tags: [риск/деньги]
 ---

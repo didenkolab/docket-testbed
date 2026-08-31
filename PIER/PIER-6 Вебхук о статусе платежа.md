@@ -5,10 +5,11 @@ type: Задача
 status: Готово
 status_category: done
 priority: критичный
+estimate: 5
 assignee: oleg
 labels: ["[[оплата]]", "[[вебхуки]]"]
 created: 2026-06-30T09:00:00Z
-updated: 2026-07-16T14:00:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 tags: [риск/данные]
 parent: "[[PIER-1 Приём платежей по СБП]]"

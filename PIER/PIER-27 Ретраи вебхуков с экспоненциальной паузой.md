@@ -5,10 +5,12 @@ type: Задача
 status: RFT Stage
 status_category: doing
 priority: высокий
+estimate: 5
 assignee: oleg
+sprint: "[[Спринт 13]]"
 labels: ["[[вебхуки]]"]
 created: 2026-07-26T09:00:00Z
-updated: 2026-08-25T17:01:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 caused_by: ["[[PIER-7 Дубли вебхуков при ретраях]]"]
 blocked_by: ["[[PIER-8 Идемпотентность по ключу операции]]"]

@@ -6,9 +6,10 @@ status: В работе
 status_category: doing
 priority: высокий
 assignee: timur
+sprint: "[[Спринт 13]]"
 labels: ["[[возвраты]]"]
 created: 2026-07-03T09:00:00Z
-updated: 2026-08-11T14:30:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 tags: [риск/деньги]
 parent: "[[PIER-2 Возвраты и частичные возвраты]]"

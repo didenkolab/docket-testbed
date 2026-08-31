@@ -39,6 +39,11 @@ priorities:
   - обычный
   - высокий
   - критичный
+# Оценка. Ряд Фибоначчи, потому что спорить о 6 против 7 бессмысленно, а о 5 против 8 —
+# уже разговор. 13 означает «не оценено, а признано большим»: такую задачу режут, а не берут.
+estimates:
+  unit: сторипоинты
+  scale: [1, 2, 3, 5, 8, 13]
 # The pipeline. Forward one stage at a time; back to "В работе" from any stage
 # after it, because that is what a failed review, a failed test and a failed
 # deployment all mean. Anything before Готово can be abandoned.

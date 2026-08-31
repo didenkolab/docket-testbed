@@ -5,10 +5,12 @@ type: Баг
 status: RF DEPLOYMENT
 status_category: doing
 priority: высокий
+estimate: 2
 assignee: marina
+sprint: "[[Спринт 12]]"
 labels: ["[[оплата]]"]
 created: 2026-07-27T09:00:00Z
-updated: 2026-08-27T12:32:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 tags: [регресс]
 ---

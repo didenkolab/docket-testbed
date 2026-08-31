@@ -5,10 +5,12 @@ type: Задача
 status: Business Review
 status_category: doing
 priority: высокий
+estimate: 5
 assignee: timur
+sprint: "[[Спринт 13]]"
 labels: ["[[возвраты]]"]
 created: 2026-07-09T09:00:00Z
-updated: 2026-08-19T16:50:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 tags: [риск/деньги]
 parent: "[[PIER-2 Возвраты и частичные возвраты]]"

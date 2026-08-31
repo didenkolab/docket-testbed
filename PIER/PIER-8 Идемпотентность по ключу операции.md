@@ -6,9 +6,10 @@ status: QA Stage
 status_category: doing
 priority: критичный
 assignee: marina
+sprint: "[[Спринт 12]]"
 labels: ["[[оплата]]", "[[безопасность]]"]
 created: 2026-07-04T09:00:00Z
-updated: 2026-08-18T13:35:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 tags: [риск/деньги]
 parent: "[[PIER-1 Приём платежей по СБП]]"

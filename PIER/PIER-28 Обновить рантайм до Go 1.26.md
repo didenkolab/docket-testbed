@@ -5,10 +5,11 @@ type: Задача
 status: Готово
 status_category: done
 priority: низкий
+estimate: 2
 assignee: marina
 labels: ["[[инфраструктура]]"]
 created: 2026-07-02T09:00:00Z
-updated: 2026-07-10T12:34:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 tags: [долг]
 ---

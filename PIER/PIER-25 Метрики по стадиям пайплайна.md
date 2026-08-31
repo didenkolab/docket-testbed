@@ -5,10 +5,12 @@ type: Задача
 status: Business Review
 status_category: doing
 priority: обычный
+estimate: 3
 assignee: ksenia
+sprint: "[[Спринт 12]]"
 labels: ["[[отчётность]]"]
 created: 2026-07-23T09:00:00Z
-updated: 2026-08-17T13:21:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 tags: [долг]
 ---

@@ -5,10 +5,11 @@ type: Задача
 status: Готово
 status_category: done
 priority: критичный
+estimate: 5
 assignee: oleg
 labels: ["[[безопасность]]"]
 created: 2026-07-01T09:00:00Z
-updated: 2026-07-14T14:52:00Z
+updated: 2026-08-31T17:00:00Z
 aliases: []
 tags: [риск/данные]
 ---
