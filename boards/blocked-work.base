@@ -1,7 +1,7 @@
 filters:
   and:
     - file.inFolder("PIER")
-    - 'note.status == "Blocked"'
+    - 'note.status == "QA Stage"'
 properties:
   note.key:
     displayName: Key
