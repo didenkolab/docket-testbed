@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.inFolder("PIER")
+    - 'note.status == "Blocked"'
+properties:
+  note.key:
+    displayName: Key
+  note.assignee:
+    displayName: Assignee
+views:
+  - type: table
+    name: Blocked
+    order:
+      - note.key
+      - note.assignee
