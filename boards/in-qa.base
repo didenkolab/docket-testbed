@@ -1,7 +1,9 @@
 filters:
   and:
-    - file.inFolder("PIER")
+    - or:
+        - file.inFolder("PIER")
     - 'note.status == "QA Stage"'
+    - note.assignee
 properties:
   note.key:
     displayName: Key
