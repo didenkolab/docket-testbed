@@ -1,6 +1,6 @@
 # Пирс — a docket testbed
 
-An [docket](https://github.com/vadymdidenkolab/docket) vault belonging to a fictional payments
+A [docket](https://github.com/vadymdidenkolab/docket) vault belonging to a fictional payments
 team, kept here so that docket is exercised against a workflow that is nothing like its defaults.
 
 [docket-demo](https://github.com/vadymdidenkolab/docket-demo) shows what a vault looks like. This
