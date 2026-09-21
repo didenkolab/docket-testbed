@@ -1,9 +1,9 @@
 # Пирс — a docket testbed
 
-A [docket](https://github.com/vadymdidenkolab/docket) vault belonging to a fictional payments
+A [docket](https://github.com/didenkolab/docket) vault belonging to a fictional payments
 team, kept here so that docket is exercised against a workflow that is nothing like its defaults.
 
-[docket-demo](https://github.com/vadymdidenkolab/docket-demo) shows what a vault looks like. This
+[docket-demo](https://github.com/didenkolab/docket-demo) shows what a vault looks like. This
 one shows what a vault looks like when a real team has had it for a quarter: a deployment
 pipeline instead of three columns, a vocabulary that is not English, an epic with sub-tasks
 under it, tasks that block and duplicate and cause each other, labels that are pages, and
